@@ -1,0 +1,10 @@
+plugin:
+  name: Erico - Lenton Couplers
+  UUID: 01662047-92f5-4e65-9a73-3bd06411a67c
+  version: 1.0.0 
+  developer: allplan-gmbh 
+  default-language: en 
+  min-allplan-version: 2028
+  
+installation:
+  target-location: STD
