@@ -4,7 +4,7 @@ plugin:
   version: 1.0.0 
   developer: allplan-gmbh 
   default-language: en 
-  min-allplan-version: 2028
+  min-allplan-version: 9999
   
 installation:
   target-location: STD
